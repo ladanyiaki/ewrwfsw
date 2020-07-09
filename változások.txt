@@ -3,3 +3,4 @@ ketto
 haro
 negy
 öt
+hat
